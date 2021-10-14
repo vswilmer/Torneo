@@ -1,5 +1,5 @@
 ﻿@page
-@model Sistema.App.Frontend.Pages.ListMunicipioDetailsModel
+@model Sistema.App.Frontend.Pages.Municipios.ListMunicipioDetailsModel
 @{
 }
 <h1>Detalle del Municipio</h1>
@@ -8,10 +8,7 @@
         <th scope="col">Nombre</th>
         <td>@Model.municipio.Nombre</td>
     </tr>
-    <tr>
-        <th scope="col">Identificador</th>
-        <td>@Model.municipio.Id</td>
-    </tr>
+    
     
 </table>
-<a class="btn btn-primary" asp-page="./ListMunicipioDetails">Volver</a>
+<a class="btn btn-primary" asp-page="./ListMunicipio">Volver</a>

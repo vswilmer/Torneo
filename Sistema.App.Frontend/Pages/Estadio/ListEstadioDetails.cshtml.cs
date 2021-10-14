@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Sistema.App.Persistencia;
 using Sistema.App.Dominio;
 
-namespace Sistema.App.Frontend.Pages
+namespace Sistema.App.Frontend.Pages.Estadios
 {
     public class ListEstadioDetailsModel : PageModel
     {

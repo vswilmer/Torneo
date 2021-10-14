@@ -1,0 +1,24 @@
+﻿@page
+@model Sistema.App.Presentacion.Pages.ListDirectorTecnicoModel
+@{
+}
+<h1>Lista de directores técnicos</h1>
+<table class="table">
+    @foreach (var directorTecnico in Model.DirectorTecnico)
+    {
+        <tr>
+            <td>@directorTecnico.Nombre</td>
+            <td>
+                <a class = "btn btn-primary table-btn" asp-page = "./Details" asp-route-idDirectorTecnico = "@directorTecnico.Id">
+                    <i class = "fas fa-info-circle fa-lg"></i></a>
+            </td>
+            
+            <td>
+                <a class = "btn btn-primary table-btn" asp-page = "./Edit" asp-route-idDirectorTecnico = "@directorTecnico.Id">
+                    <i class = "fas fa-Address-book fa-lg"aria-hidden="true"></i>
+                </a>
+            </td>
+        </tr>
+        
+    }
+</table>

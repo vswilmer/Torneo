@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {}
+    "C:\\CSharpAspNetCore2\\Remoto4\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
+    "C:\\CSharpAspNetCore2\\Remoto4\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
+        "projectUniqueName": "C:\\CSharpAspNetCore2\\Remoto4\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
         "projectName": "Sistema.App.Dominio",
-        "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\obj\\",
+        "projectPath": "C:\\CSharpAspNetCore2\\Remoto4\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\nsimon\\.nuget\\packages\\",
+        "outputPath": "C:\\CSharpAspNetCore2\\Remoto4\\Software\\Sistema.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nsimon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "System.ComponentModel.Annotations": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

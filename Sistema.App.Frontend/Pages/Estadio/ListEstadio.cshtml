@@ -1,9 +1,19 @@
 ﻿@page
-@model Sistema.App.Frontend.Pages.ListEstadioModel
+@model Sistema.App.Frontend.Pages.Estadios.ListEstadioModel
 @{
 }
+
+
+<form method="get">
+    <div class="form-group">
+        <label for="b">Buscar</label>
+        <input name="b" id="b" asp-for="@Model.bActual" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
 <h1>Listado de Estadios</h1>
-<a class="btn btn-primary" asp-page="./Create">Nuevo estadio</a>
+<a class="btn btn-primary" asp-page="./Create">Nuevo Estadio</a>
 <table class="table">
     <thead class="thead-dark">
         <tr>
@@ -20,6 +30,9 @@
                 <th>@estadio.Nombre</th>
                 <td>@estadio.Direccion</td>
                 <td>@estadio.Municipio.Nombre</td>
+
+
+                
                 <td>
                     <a class="btn btn-primary" asp-page="./ListEstadioDetails" asp-route-id="@estadio.Id">Detalle</a>
                     <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@estadio.Id">Modificar</a>

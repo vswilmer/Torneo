@@ -13,7 +13,7 @@ namespace Sistema.App.Persistencia
         /// Referencia al contexto Director Tecnico
         /// </summary>
 
-        private readonly AppContext _appContext = new AppContext();
+        private readonly AppContext _appContext;
 
         /// <summary>
         /// Metodo constructor utiliza
@@ -21,6 +21,10 @@ namespace Sistema.App.Persistencia
         /// </summary>
         /// <param name="appContext"></param>//
 
+        public RepositorioDirectorTecnico(AppContext appContext)
+        {
+            _appContext = appContext;
+        }
         DirectorTecnico IRepositorioDirectorTecnico.AddDirectorTecnico(DirectorTecnico directorTecnico)
         {
             var DirectorTecnicoAdicionado = _appContext.DirectoresTecnicos.Add(directorTecnico);
@@ -42,18 +46,19 @@ namespace Sistema.App.Persistencia
             }
             return;
         }
-        DirectorTecnico IRepositorioDirectorTecnico.UpdateDirectorTecnico(DirectorTecnico Dt)
+
+        DirectorTecnico IRepositorioDirectorTecnico.UpdateDirectorTecnico(int documento, DirectorTecnico Dt)
         {
-            var DirectorTecnicoEncontrado = _appContext.DirectoresTecnicos.FirstOrDefault(p => p.Id == Dt.Id);
+            var DirectorTecnicoEncontrado = _appContext.DirectoresTecnicos.FirstOrDefault(p => p.Documento == documento);
             if (DirectorTecnicoEncontrado != null)
             {
                DirectorTecnicoEncontrado.Nombre = Dt.Nombre;
                DirectorTecnicoEncontrado.Apellido = Dt.Apellido;
-               DirectorTecnicoEncontrado.Documento = Dt.Documento;
                DirectorTecnicoEncontrado.Telefono = Dt.Telefono;
                _appContext.SaveChanges();
+               return DirectorTecnicoEncontrado;
             }   
-            return DirectorTecnicoEncontrado;
+            return null;
         }
 
         DirectorTecnico IRepositorioDirectorTecnico.GetDirectorTecnico(int idDirectorTecnico)
