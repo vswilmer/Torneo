@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYGh95+hffBVOZfeSABabsWiUSOKjz9kOUvFusj1i37q7c/edtZmSzR68j8uCBak4QZeuY/piCS11CGVFSSa4Q==",
+  "dgSpecHash": "Nc96BWI2viIPA0QFjgTj7uKyEhvvFKNhRCSuQPjGfZgMPAVG16pE46lBslIIu5I9CUo3ymvNoQHfiId0NpZGtw==",
   "success": true,
-  "projectFilePath": "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -4,7 +4,7 @@
     <ProjectReference Include="..\Sistema.App.Persistencia\Sistema.App.Persistencia.csproj" />
     <ProjectReference Include="..\Sistema.App.Dominio\Sistema.App.Dominio.csproj" />
   </ItemGroup>
-
+  
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>

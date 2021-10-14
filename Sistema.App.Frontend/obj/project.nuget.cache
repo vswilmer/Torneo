@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W5MH9VmZLcHpvb1ZbF1WGaO1bdcILlOqmn3I9xet+ky7X5iLtcoaI/d5q8dlLXiBp3yiFMo2GONqucE38BrfSw==",
+  "dgSpecHash": "K/ddX2VjvsyCnjlb6XrLgVhZpYUOG9d/mMQvyPW8hwB7IjxfafD5m11DuoVAd3hQOfGfH3+VNrAeHo5V24u2sQ==",
   "success": true,
-  "projectFilePath": "C:\\Software\\futbol.App\\Sistema.App.frontend\\Sistema.App.Frontend.csproj",
+  "projectFilePath": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

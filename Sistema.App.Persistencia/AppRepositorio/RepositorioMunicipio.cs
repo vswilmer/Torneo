@@ -12,7 +12,7 @@ namespace Sistema.App.Persistencia
         /// Referencia al contexto de Municipio
         /// </summary>
         //private readonly AppContext _appContext;
-        private readonly AppContext _appContext = new AppContext();
+        public AppContext _appContext = new AppContext();
         /// <summary>
         /// Metodo Constructor Utiiza 
         /// Inyeccion de dependencias para indicar el contexto a utilizar

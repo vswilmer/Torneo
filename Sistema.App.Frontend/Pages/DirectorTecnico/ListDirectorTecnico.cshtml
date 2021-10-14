@@ -3,7 +3,6 @@
 @{
 }
 <h1>Listado de directores técnicos</h1>
-<a class="btn btn-primary" asp-page="./Create">Nuevo director técnico</a>
 <table class="table">
     <thead class="thead-dark">
         <tr>
@@ -23,9 +22,11 @@
                 <td>@Dt.Telefono</td>
                 <td>
                     <a class="btn btn-primary" asp-page="./ListDirectorTecnicoDetails" asp-route-id="@Dt.Id">Detalle</a>
-                    <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@Dt.Id">Modificar</a>
+                    <a class="btn btn-secondary" asp-page="./ListDirectorTecnicoEdit" asp-route-id="@Dt.Id">Modificar</a>
+                    <a class="btn btn-primary" asp-page="./ListDirectorTecnicoDelete" asp-route-id="@Dt.Id">Eliminar</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+<a asp-page="./ListDirectorTecnicoCreate" class="btn btn-primary">Nuevo director técnico</a>

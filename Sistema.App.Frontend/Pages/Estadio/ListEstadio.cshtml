@@ -19,7 +19,7 @@
             <tr>
                 <th>@estadio.Nombre</th>
                 <td>@estadio.Direccion</td>
-                <td>@estadio.Municipio</td>
+                <td>@estadio.Municipio.Nombre</td>
                 <td>
                     <a class="btn btn-primary" asp-page="./ListEstadioDetails" asp-route-id="@estadio.Id">Detalle</a>
                     <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@estadio.Id">Modificar</a>

@@ -1511,6 +1511,9 @@
       "Sistema.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/Sistema.App.Dominio.dll": {}
         },
@@ -5796,19 +5799,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nsimon\\.nuget\\packages\\": {}
+    "C:\\Users\\Santiago\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Consola\\Sistema.App.Consola.csproj",
+      "projectUniqueName": "C:\\Software\\Futbol.App\\Sistema.App.Consola\\Sistema.App.Consola.csproj",
       "projectName": "Sistema.App.Consola",
-      "projectPath": "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Consola\\Sistema.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\nsimon\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Consola\\obj\\",
+      "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Consola\\Sistema.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
+      "outputPath": "C:\\Software\\Futbol.App\\Sistema.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nsimon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5820,11 +5823,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
-              "projectPath": "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
+            "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
+              "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
             },
-            "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
-              "projectPath": "C:\\CSharpAspNetCore2\\Remoto3\\Software\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj"
+            "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
+              "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj"
             }
           }
         }
@@ -5861,7 +5864,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

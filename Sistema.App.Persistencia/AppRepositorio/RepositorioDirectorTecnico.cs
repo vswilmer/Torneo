@@ -42,19 +42,18 @@ namespace Sistema.App.Persistencia
             }
             return;
         }
-
-        DirectorTecnico IRepositorioDirectorTecnico.UpdateDirectorTecnico(int documento, DirectorTecnico Dt)
+        DirectorTecnico IRepositorioDirectorTecnico.UpdateDirectorTecnico(DirectorTecnico Dt)
         {
-            var DirectorTecnicoEncontrado = _appContext.DirectoresTecnicos.FirstOrDefault(p => p.Documento == documento);
+            var DirectorTecnicoEncontrado = _appContext.DirectoresTecnicos.FirstOrDefault(p => p.Id == Dt.Id);
             if (DirectorTecnicoEncontrado != null)
             {
                DirectorTecnicoEncontrado.Nombre = Dt.Nombre;
                DirectorTecnicoEncontrado.Apellido = Dt.Apellido;
+               DirectorTecnicoEncontrado.Documento = Dt.Documento;
                DirectorTecnicoEncontrado.Telefono = Dt.Telefono;
                _appContext.SaveChanges();
-               return DirectorTecnicoEncontrado;
             }   
-            return null;
+            return DirectorTecnicoEncontrado;
         }
 
         DirectorTecnico IRepositorioDirectorTecnico.GetDirectorTecnico(int idDirectorTecnico)
