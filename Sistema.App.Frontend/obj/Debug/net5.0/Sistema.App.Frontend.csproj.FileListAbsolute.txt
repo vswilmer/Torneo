@@ -152,3 +152,6 @@ C:\Software\futbol.App\Sistema.App.frontend\bin\Debug\net5.0\Sistema.App.Dominio
 C:\Software\futbol.App\Sistema.App.frontend\obj\Debug\net5.0\Sistema.App.Frontend.Views.pdb
 C:\Software\futbol.App\Sistema.App.frontend\obj\Debug\net5.0\Sistema.App.Frontend.csproj.CopyComplete
 C:\Software\futbol.App\Sistema.App.frontend\obj\Debug\net5.0\Sistema.App.Frontend.genruntimeconfig.cache
+C:\Software\Futbol.App\Sistema.App.Frontend\obj\Debug\net5.0\Razor\Pages\DirectorTecnico\ListDirectorTecnicoDelete.cshtml.g.cs
+C:\Software\Futbol.App\Sistema.App.Frontend\obj\Debug\net5.0\Razor\Pages\DirectorTecnico\ListDirectorTecnicoEdit.cshtml.g.cs
+C:\Software\Futbol.App\Sistema.App.Frontend\obj\Debug\net5.0\Razor\Pages\DirectorTecnico\ListDirectorTecnicoCreate.cshtml.g.cs

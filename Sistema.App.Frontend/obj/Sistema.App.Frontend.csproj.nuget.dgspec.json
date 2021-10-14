@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Software\\futbol.App\\Sistema.App.frontend\\Sistema.App.Frontend.csproj": {}
+    "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
+    "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
         "projectName": "Sistema.App.Dominio",
-        "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
+        "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Software\\futbol.App\\Sistema.App.Dominio\\obj\\",
+        "outputPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,14 +62,14 @@
         }
       }
     },
-    "C:\\Software\\futbol.App\\Sistema.App.frontend\\Sistema.App.Frontend.csproj": {
+    "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Software\\futbol.App\\Sistema.App.frontend\\Sistema.App.Frontend.csproj",
+        "projectUniqueName": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
         "projectName": "Sistema.App.Frontend",
-        "projectPath": "C:\\Software\\futbol.App\\Sistema.App.frontend\\Sistema.App.Frontend.csproj",
+        "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
         "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Software\\futbol.App\\Sistema.App.frontend\\obj\\",
+        "outputPath": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,11 +84,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
-                "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
+              "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
+                "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
               },
-              "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
-                "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj"
+              "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
+                "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj"
               }
             }
           }
@@ -118,14 +124,14 @@
         }
       }
     },
-    "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
+    "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj",
         "projectName": "Sistema.App.Persistencia",
-        "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj",
+        "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\obj\\",
+        "outputPath": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -140,8 +146,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
-                "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
+              "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
+                "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
               }
             }
           }

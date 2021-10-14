@@ -12,6 +12,7 @@ namespace Sistema.App.Frontend.pages
     public class ListDirectorTecnicoModel : PageModel
     {
         private readonly IRepositorioDirectorTecnico _repoDirectorTecnico;
+        
         public IEnumerable<DirectorTecnico> directorTecnico {get; set;}
         public ListDirectorTecnicoModel(IRepositorioDirectorTecnico repoDirectorTecnico)
         {
@@ -19,6 +20,7 @@ namespace Sistema.App.Frontend.pages
         }
         public void OnGet()
         {
+            
             directorTecnico = _repoDirectorTecnico.GetAllDirectorTecnico();
         }
     }

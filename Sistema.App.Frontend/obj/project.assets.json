@@ -1485,6 +1485,9 @@
       "Sistema.App.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.ComponentModel.Annotations": "5.0.0"
+        },
         "compile": {
           "bin/placeholder/Sistema.App.Dominio.dll": {}
         },
@@ -5742,11 +5745,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software\\futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
       "projectName": "Sistema.App.Frontend",
-      "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
+      "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\Sistema.App.Frontend.csproj",
       "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Software\\futbol.App\\Sistema.App.Frontend\\obj\\",
+      "outputPath": "C:\\Software\\Futbol.App\\Sistema.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5761,11 +5764,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
-              "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
+            "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj": {
+              "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj"
             },
-            "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
-              "projectPath": "C:\\Software\\futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj"
+            "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj": {
+              "projectPath": "C:\\Software\\Futbol.App\\Sistema.App.Persistencia\\Sistema.App.Persistencia.csproj"
             }
           }
         }

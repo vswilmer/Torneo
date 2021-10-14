@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Sistema.App.Frontend
-build_property.ProjectDir = C:\Software\futbol.App\Sistema.App.frontend\
+build_property.ProjectDir = C:\Software\Futbol.App\Sistema.App.Frontend\
