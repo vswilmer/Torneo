@@ -1,8 +1,8 @@
 ﻿@page
-@model Sistema.App.Frontend.Pages.ListEstadioDetailsModel
+@model Sistema.App.Frontend.Pages.Estadios.ListEstadioDetailsModel
 @{
 }
-<h1>Detalle del Estadio</h1>
+<h1>Detalles del Estadio</h1>
 <table class="table table-dark">
     <tr>
         <th scope="col">Nombre</th>
@@ -16,7 +16,9 @@
         <th scope="col">Municipio</th>
         @if (Model.estadio.Municipio == null)
         {
-            <td><a class="btn btn-primary" asp-page="./AddMunicipio" asp-route-id="@Model.estadio.Id">Asignar Municipio</a></td>
+            <td>
+                <a class="btn btn-primary" asp-page="./AddMunicipio" asp-route-id="@Model.estadio.Id">Asignar Municipio</a>
+            </td>
         } 
         else
         {

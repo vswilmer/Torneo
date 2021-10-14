@@ -1,0 +1,26 @@
+﻿@page
+@using Sistema.App.Dominio
+@model Sistema.App.Frontend.Pages.Estadios.EditModel
+@{
+}
+<h1>Editar Estadio</h1>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="estadio.Id"></label>
+        <input asp-for="estadio.Id" class="form-control" readonly>
+    </div>
+    <div class="form-group">
+        <label asp-for="estadio.Nombre"></label>
+        <input asp-for="estadio.Nombre" class="form-control">
+        <span asp-validation-for="estadio.Nombre" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="estadio.Direccion"></label>
+        <input asp-for="estadio.Direccion" class="form-control">
+        <span asp-validation-for="estadio.Direccion" class="text-danger"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Editar Estadio</button>
+</form>
+<a asp-page="./ListEstadio" class="btn btn-secondary">Volver</a>

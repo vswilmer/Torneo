@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Sistema.App.Persistencia;
 using Sistema.App.Dominio;
 
-namespace Sistema.App.Frontend.Pages
+namespace Sistema.App.Frontend.Pages.Municipios
 {
     public class ListMunicipioDetailsModel : PageModel
     {

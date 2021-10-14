@@ -9,7 +9,7 @@ namespace Sistema.App.Persistencia
     {
         IEnumerable<DirectorTecnico> GetAllDirectorTecnico();
         DirectorTecnico AddDirectorTecnico(DirectorTecnico directorTecnico);
-        DirectorTecnico UpdateDirectorTecnico(DirectorTecnico Dt);
+        DirectorTecnico UpdateDirectorTecnico(int documento, DirectorTecnico NuevoDt);
         void DeleteDirectorTecnico(int idDirectorTecnico);
         DirectorTecnico GetDirectorTecnico(int idDirectorTecnico); 
     }

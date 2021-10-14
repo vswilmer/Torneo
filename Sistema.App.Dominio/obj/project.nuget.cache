@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M9SJ6+OJW6HWdnpbsTtxlevFW+aaujT+1ujLtJKmJzqTktPZZ+LedbnyJF+Y0Rq1OKgkarh3yHdJL08dgAKosw==",
+  "dgSpecHash": "O8SilbgiU6qNg5BGaX3eQtZEz4Btp54XwRSr9wE/bB+y3APoxheUwKlflVIeBvTCzK9o2+GGD31r2kWbFh2Chw==",
   "success": true,
-  "projectFilePath": "C:\\Software\\Futbol.App\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Santiago\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\CSharpAspNetCore2\\Remoto4\\Software\\Sistema.App.Dominio\\Sistema.App.Dominio.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

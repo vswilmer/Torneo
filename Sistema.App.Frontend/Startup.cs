@@ -28,7 +28,7 @@ namespace Sistema.App.Frontend
             //services.AddSingleton<IRepositorioPersona, RepositorioPersona>();
             services.AddSingleton<IRepositorioEstadio, RepositorioEstadio>();
             services.AddSingleton<IRepositorioMunicipio, RepositorioMunicipio>();
-            services.AddSingleton<IRepositorioDirectorTecnico, RepositorioDirectorTecnico>();
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,9 +51,13 @@ namespace Sistema.App.Frontend
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {
+                /*endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller-Conference}/{action=Index}/{id?}");*/  
                 endpoints.MapRazorPages();
             });
         }
