@@ -1,0 +1,204 @@
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.exe
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.deps.json
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.runtimeconfig.json
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.runtimeconfig.dev.json
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\ref\Sistema.App.Consola.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Humanizer.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Dominio.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Persistencia.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Persistencia.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Dominio.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.AssemblyReference.cache
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.AssemblyInfoInputs.cache
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.AssemblyInfo.cs
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.CoreCompileInputs.cache
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.CopyComplete
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\ref\Sistema.App.Consola.dll
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.pdb
+C:\Torneo\Sistema.App\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.genruntimeconfig.cache
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.exe
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.deps.json
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.runtimeconfig.json
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.runtimeconfig.dev.json
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\ref\Sistema.App.Consola.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Humanizer.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Dominio.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Persistencia.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Persistencia.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Dominio.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.AssemblyReference.cache
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.AssemblyInfoInputs.cache
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.AssemblyInfo.cs
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.CoreCompileInputs.cache
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.CopyComplete
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\ref\Sistema.App.Consola.dll
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.pdb
+C:\Torneo\Torneo descarga\Torneo\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.genruntimeconfig.cache
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\ref\Sistema.App.Consola.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.exe
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.deps.json
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.runtimeconfig.json
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.runtimeconfig.dev.json
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\ref\Sistema.App.Consola.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Consola.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Humanizer.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Dominio.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Persistencia.dll
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Persistencia.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\bin\Debug\net5.0\Sistema.App.Dominio.pdb
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.AssemblyReference.cache
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.AssemblyInfoInputs.cache
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.AssemblyInfo.cs
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.CoreCompileInputs.cache
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.csproj.CopyComplete
+C:\CSharpAspNetCore2\Remoto3\Software\Sistema.App.Consola\obj\Debug\net5.0\Sistema.App.Consola.genruntimeconfig.cache

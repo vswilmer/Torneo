@@ -1,0 +1,31 @@
+﻿@page
+@model Sistema.App.Frontend.pages.ListDirectorTecnicoModel
+@{
+}
+<h1>Listado de directores técnicos</h1>
+<a class="btn btn-primary" asp-page="./Create">Nuevo director técnico</a>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Documento</th>
+            <th scope="col">Teléfono</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var Dt in Model.directorTecnico)
+        {
+            <tr>
+                <th>@Dt.Nombre</th>
+                <td>@Dt.Apellido</td>
+                <td>@Dt.Documento</td>
+                <td>@Dt.Telefono</td>
+                <td>
+                    <a class="btn btn-primary" asp-page="./ListDirectorTecnicoDetails" asp-route-id="@Dt.Id">Detalle</a>
+                    <a class="btn btn-secondary" asp-page="./Edit" asp-route-id="@Dt.Id">Modificar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

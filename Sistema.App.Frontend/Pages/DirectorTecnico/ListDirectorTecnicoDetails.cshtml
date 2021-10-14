@@ -1,0 +1,32 @@
+﻿@page
+@model Sistema.App.Frontend.pages.ListDirectorTecnicoDetailsModel
+@{
+}
+<h1>Detalle del director técnico</h1>
+<table class="table table-dark">
+    <tr>
+        <th scope="col">Nombre</th>
+        <td>@Model.directorTecnico.Nombre</td>
+    </tr>
+    <tr>
+        <th scope="col">Apellido</th>
+        <td>@Model.directorTecnico.Apellido</td>
+    </tr>
+    <tr>
+        <th scope="col">Documento</th>
+        <td>@Model.directorTecnico.Documento</td>
+    </tr>
+    <tr>
+        <th scope="col">Teléfono</th>
+        <td>@Model.directorTecnico.Telefono</td>
+        @if (Model.directorTecnico == null)
+        {
+            <td><a class="btn btn-primary" asp-page="./AddDirectorTecnico" asp-route-id="@Model.directorTecnico.Id">Asignar Director técnico</a></td>
+        } 
+        else
+        {
+            <td></td>
+        }        
+    </tr>
+</table>
+<a class="btn btn-primary" asp-page="./ListDirectorTecnico">Volver</a>
